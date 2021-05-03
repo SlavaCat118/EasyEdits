@@ -1,0 +1,26 @@
+{
+    "colors": {
+        "background": "#2b2b2b",
+        "highlights": "#af78eb",
+        "foreground": "#ffffff",
+        "treeview secondary": "#f0f0f0",
+        "alternate background": "#1a1a1a"
+    },
+    "replace_duplicate_prefix": "1",
+    "whitespace_character": "%",
+    "default_break": "_",
+    "repair_broken": "1",
+    "default": {
+        "colors": {
+            "background": "#2b2b2b",
+            "highlights": "#af78eb",
+            "foreground": "#ffffff",
+            "treeview secondary": "#f0f0f0",
+            "alternate background": "#1a1a1a"
+        },
+        "replace_duplicate_prefix": "1",
+        "whitespace_character": "%",
+        "default_break": "_",
+        "repair_broken": "1"
+    }
+}
