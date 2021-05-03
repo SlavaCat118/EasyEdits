@@ -1,6 +1,6 @@
 Welcome to EasyEdits!
 
-For images and formatting:
+For this help page but better formatting + images:
 https://docs.google.com/document/d/1KBCyDokTxtbWW3JRwVdAvVOeqLpRNL3zg-qB0INId6w/edit?usp=sharing
 
 EasyEdits Help Doc
